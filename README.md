@@ -1,2 +1,2 @@
-# PemsilTg1
+# Pemsil
 Regresi Linier sederhana
